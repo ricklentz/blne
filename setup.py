@@ -8,5 +8,5 @@ setup(
         version=VERSION,
         description=DESCRIPTION,
         packages=find_packages(),
-        url='https://github.com/ricklentz/blne'
+        url='https://github.com/ricklentz/compositio'
 )
