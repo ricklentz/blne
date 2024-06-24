@@ -4,7 +4,7 @@ from setuptools.command.develop import develop
 from setuptools.command.install import install
 from subprocess import check_call
 
-VERSION = '0.0.1' 
+VERSION = '0.0.3' 
 DESCRIPTION = 'the idea of assembling parts into a unified structure'
 CHROMEDRIVER_URL = "https://chromedriver.storage.googleapis.com/114.0.5735.90/chromedriver_linux64.zip"
 
