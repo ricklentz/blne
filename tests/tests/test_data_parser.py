@@ -1,5 +1,5 @@
 import pytest
-from blne.data_parser import DataParser
+from compositio.data_parser import DataParser
 
 def test_parse_json_success():
     data = '{"key": "value"}'
