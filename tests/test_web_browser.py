@@ -1,5 +1,5 @@
 import pytest
-from blne.web_browser import WebBrowser
+from compositio.web_browser import WebBrowser
 
 def test_web_browser_success(requests_mock):
     url = "http://example.com"
